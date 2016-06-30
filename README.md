@@ -1,7 +1,7 @@
 # Ampersand Autofill Input View
 Cause copying and pasting _id sucks.
 
-This module is ment to be used in conjunction with [ampersand form view] <https://github.com/AmpersandJS/ampersand-form-view>.
+This module is ment to be used in conjunction with [ampersand form view](https://github.com/AmpersandJS/ampersand-form-view).
 
 ## Installation
 `git clone https://github.com/KayBeSee/ampersand-autofill-input-view.git`
@@ -41,4 +41,4 @@ new AutoCompleteView({
 }),
 ```
 
-[Kevin Mulcrone]: <http://KayBeSee.com>
+Created by [Kevin Mulcrone](http://KayBeSee.com)
